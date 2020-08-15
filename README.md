@@ -1,1 +1,1 @@
-# R_coursera_assignment
+# Johnson Repository for Programming Assignment 2 Lexical Scoping
