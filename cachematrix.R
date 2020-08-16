@@ -34,3 +34,6 @@ R session:
   x$setinverse(i)
   i
 }
+
+## Testing my function
+source("R_coursera_assignment/cachematrix.R")
