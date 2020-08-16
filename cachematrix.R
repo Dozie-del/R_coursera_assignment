@@ -4,8 +4,6 @@
 ## The function creates a special objects that stores the matrix and catches its inverse.
 
 
-R session:
-
 > makeCacheMatrix <- function(x = matrix()) {
   i <- NULL
   set <- function(y) {
